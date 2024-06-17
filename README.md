@@ -8,6 +8,7 @@
 - [1.4. Введение в Pandas](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/1.4%20pandas_empty.ipynb)
 - [1.4. Введение в Pandas Задание ПРО](https://github.com/Rishat-Ver/1T_data_analyst/tree/main/homework)
 - [1.5. Визуализация средствами языка Python](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/1.5%20vizialization_empty.ipynb)
+- [1.5 visualization_PRO_empty]()
 
 
 ## Отзыв о курсе:
