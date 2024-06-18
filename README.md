@@ -9,7 +9,7 @@
 - [1.4. Введение в Pandas Задание ПРО](https://github.com/Rishat-Ver/1T_data_analyst/tree/main/homework)
 - [1.5. Визуализация средствами языка Python](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/1.5%20vizialization_empty.ipynb)
 - [1.5 Визуализация средствами языка Python PRO](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/1.5%20visualization_PRO_empty.ipynb)
-- [1.6 Парсинг внешних данных]()
+- [1.6 Парсинг внешних данных](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/1.6%20PARS_BASE_PRO_stud.ipynb)
 
 
 
