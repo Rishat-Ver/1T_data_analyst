@@ -14,6 +14,7 @@
 - [2.1 SQL](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/2.1%20SQL.txt)
 - [2.2 SQL](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/2.2%20SQL.md)
 - [2.3 SQL](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/2.3%20SQL.md)
+- [2.4 SQL](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/2.4%20SQL.md)
 
 
 
