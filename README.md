@@ -16,7 +16,7 @@
 - [2.3 Знакомство с СУБД Postgres](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/2.3%20SQL.md)
 - [2.4 Моделирование данных](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/2.4%20SQL.md)
 - [2.5 Python и подключение к базе данных](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/2.5_empty.ipynb)
-- [2. Итоговая работа]()
+- [2. Итоговая работа](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/2.%20final.ipynb)
 
 
 ## Отзыв о курсе:
