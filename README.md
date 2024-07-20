@@ -10,7 +10,7 @@
 - [1.5. Визуализация средствами языка Python](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/1.5%20vizialization_empty.ipynb)
 - [1.5 Визуализация средствами языка Python PRO](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/1.5%20visualization_PRO_empty.ipynb)
 - [1.6 Парсинг внешних данных](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/1.6%20PARS_BASE_PRO_stud.ipynb)
-- [1. Итоговая работа](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/Games_empty_pro.ipynb)
+- [1. Итоговая работа](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/1.%20Games_empty_pro.ipynb)
 - [2.1 Введение в теорию БД. Основы языка SQL](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/2.1%20SQL.txt)
 - [2.2 Погружение в SQL](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/2.2%20SQL.md)
 - [2.3 Знакомство с СУБД Postgres](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/2.3%20SQL.md)
