@@ -1,0 +1,65 @@
+[33md3ebf98[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: commit: 3.2
+[33m600a25b[m HEAD@{1}: reset: moving to HEAD~3
+[33md4bd103[m HEAD@{2}: commit: Введение в математическую статистику
+[33mba62677[m HEAD@{3}: commit: Введение в математическую статистику
+[33m5366b89[m HEAD@{4}: commit: Введение в математическую статистику
+[33m600a25b[m HEAD@{5}: commit: 1.Итоговая
+[33mb6fbbcc[m HEAD@{6}: commit: 1.Итоговая
+[33m420dec7[m HEAD@{7}: commit: Теория_вероятностей
+[33m0ebe9a5[m HEAD@{8}: commit: Теория_вероятностей
+[33md6421d1[m HEAD@{9}: commit: Теория_вероятностей
+[33mf016a37[m HEAD@{10}: commit: Вывод
+[33m4c1b17c[m HEAD@{11}: commit: Вывод
+[33m4f19178[m HEAD@{12}: commit: Вывод
+[33m6e046ef[m HEAD@{13}: commit: Вывод
+[33m7b8e48b[m HEAD@{14}: commit: 2.Итоговая работа
+[33m3e8433c[m HEAD@{15}: commit: 2.Итоговая работа
+[33m6fc9012[m HEAD@{16}: commit: env_example
+[33mf664e1b[m HEAD@{17}: commit: env_example
+[33mfdf738e[m HEAD@{18}: commit: 2.5 Python и подключение к базе данных
+[33m2184d79[m HEAD@{19}: commit: 2.5 Python и подключение к базе данных
+[33m99f127b[m HEAD@{20}: commit: 2.5 Python и подключение к базе данных
+[33ma8949a7[m HEAD@{21}: commit: 2.4SQL
+[33mec62984[m HEAD@{22}: pull: Merge made by the 'ort' strategy.
+[33m0e094d2[m HEAD@{23}: commit: 2.4SQL
+[33m3fc9fda[m HEAD@{24}: commit: 2.4SQL
+[33m298d91a[m HEAD@{25}: commit: 2.4SQL
+[33m0b95167[m HEAD@{26}: commit: 2.4SQL
+[33m22a7f71[m HEAD@{27}: commit: 2.4SQL
+[33m7b0cf1b[m HEAD@{28}: commit: 2.4SQL
+[33mc90c1c8[m HEAD@{29}: commit: 2.3 SQL
+[33mb780d58[m HEAD@{30}: commit: 2.3 SQL
+[33m5846cdc[m HEAD@{31}: commit: 2.3 SQL
+[33mc158f68[m HEAD@{32}: commit: 2.3 SQL
+[33mccca77f[m HEAD@{33}: commit: 2.2SQL
+[33m9272685[m HEAD@{34}: commit: 2.2SQL
+[33m13d4e24[m HEAD@{35}: commit: 2.2SQL
+[33m10c2b3c[m HEAD@{36}: commit: 2.2SQL
+[33mb203014[m HEAD@{37}: commit: 2.2SQL
+[33m40cb32c[m HEAD@{38}: commit: 2.2SQL
+[33m8318ffd[m HEAD@{39}: commit: 2.1SQL
+[33m3f55b87[m HEAD@{40}: commit: 2.1SQL
+[33ma37ab5c[m HEAD@{41}: commit: 1. Итоговая работа
+[33m87b368a[m HEAD@{42}: commit: 1. Итоговая работа
+[33m7475e3d[m HEAD@{43}: commit: Парсинг внешних данных PRO
+[33m79f5237[m HEAD@{44}: commit: 1.6 Парсинг внешних данных
+[33m1192679[m HEAD@{45}: commit: 1.6 Парсинг внешних данных
+[33m91b81e4[m HEAD@{46}: commit: 1.5 visualization_PRO_empty
+[33m67f87e7[m HEAD@{47}: commit: 1.5 visualization_PRO_empty
+[33mdb5b5f9[m HEAD@{48}: commit: 1.5 visualization_PRO_empty
+[33m2e6c07f[m HEAD@{49}: commit: 1.5 visualization_PRO_empty
+[33mff2a118[m HEAD@{50}: commit: 1.5 visualization_PRO_empty
+[33me01f013[m HEAD@{51}: commit: Визуализация средствами языка Python
+[33m5e1da11[m HEAD@{52}: commit: Визуализация средствами языка Python
+[33m9ed4f7c[m HEAD@{53}: commit: Визуализация средствами языка Python
+[33m1707ef6[m HEAD@{54}: commit: Добавил вывод по анализу
+[33mdfe1115[m HEAD@{55}: commit: 1.4 pandas_PRO_empty
+[33md008124[m HEAD@{56}: pull: Merge made by the 'ort' strategy.
+[33m2f081e0[m HEAD@{57}: commit: 1.4 pandas_PRO_empty
+[33m5f042d2[m HEAD@{58}: commit: Методы и инструменты Pandas
+[33mcf33dd3[m HEAD@{59}: commit: 1.3 Задание ПРО
+[33maf6ed71[m HEAD@{60}: commit: 1.3 Задание ПРО
+[33m294029a[m HEAD@{61}: commit: 1.3 Углубленное изучение типов данных
+[33mea5c7dc[m HEAD@{62}: commit: Заполнил Readme
+[33m5e25f39[m HEAD@{63}: commit: Знакомство с синтаксисом языка Python и средой разработки Jupyter Notebook
+[33mf158e04[m HEAD@{64}: clone: from https://github.com/Rishat-Ver/1T_data_analyst.git
