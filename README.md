@@ -20,4 +20,5 @@
 - [3.1 Теория_вероятностей](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/3.1%20Теория_вероятностей.ipynb)
 
 
+
 ## Отзыв о курсе:
