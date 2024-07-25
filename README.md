@@ -18,6 +18,7 @@
 - [2.5 Python и подключение к базе данных](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/2.5_empty.ipynb)
 - [2. Итоговая работа](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/2.%20final.ipynb)
 - [3.1 Теория_вероятностей](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/3.1%20Теория_вероятностей.ipynb)
+- [3.2 Введение в математическую статистику]()
 
 
 ## Отзыв о курсе:
