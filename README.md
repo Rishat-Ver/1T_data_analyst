@@ -20,7 +20,7 @@
 - [3.1 Теория_вероятностей](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/3.1%20Теория_вероятностей.ipynb)
 - [3.2 Введение в математическую статистику](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/3.2%20Введение%20в%20математическую%20статистику.ipynb)
 - [3.3 A/B-тестирование эффективности нового дизайна сайта](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/3.3%20A_B_тестирование.ipynb)
-- [3.4 Дизайн эксперимента в A/B-тестировании]()
+- [3.4 Дизайн эксперимента в A/B-тестировании](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/3.4%20A_B_тестировании.ipynb)
 
 
 ## Отзыв о курсе:
