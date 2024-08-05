@@ -22,6 +22,6 @@
 - [3.3 A/B-тестирование эффективности нового дизайна сайта](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/3.3%20A_B_тестирование.ipynb)
 - [3.4 Дизайн эксперимента в A/B-тестировании](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/3.4%20A_B_тестировании.ipynb)
 - [3.5 Введение в доверительные интервалы](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/3.5%20Доверительные_интервалы_на_Python.ipynb)
-- [3.6 А/А тестирование]()
+- [3.6 А/А тестирование](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/3.6%20А_А_тестирование.ipynb)
 
 ## Отзыв о курсе:
