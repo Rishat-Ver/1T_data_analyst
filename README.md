@@ -23,6 +23,6 @@
 - [3.4 Дизайн эксперимента в A/B-тестировании](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/3.4%20A_B_тестировании.ipynb)
 - [3.5 Введение в доверительные интервалы](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/3.5%20Доверительные_интервалы_на_Python.ipynb)
 - [3.6 А/А тестирование](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/3.6%20А_А_тестирование.ipynb)
-- [3. Итоговая работа]()
+- [3. Итоговая работа](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/3.%20Анализ%20эффективности%20маркетинговой%20кампании.ipynb)
 
 ## Отзыв о курсе:
