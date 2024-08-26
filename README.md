@@ -25,5 +25,6 @@
 - [3.6 А/А тестирование](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/3.6%20А_А_тестирование.ipynb)
 - [3. Итоговая работа](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/3.%20Анализ%20эффективности%20маркетинговой%20кампании.ipynb)
 - [4.1 Grafana](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/4.1%20Grafana.md)
+- [4. Grafana](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/4.%20Итоговый%20проект.ipynb)
 
 ## Отзыв о курсе:
