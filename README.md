@@ -26,5 +26,7 @@
 - [3. Итоговая работа](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/3.%20Анализ%20эффективности%20маркетинговой%20кампании.ipynb)
 - [4.1 Grafana](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/4.1%20Grafana.md)
 - [4. Grafana](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/4.%20Итоговый%20проект.ipynb)
+- [5.1 Введение в продуктовую аналитику]()
+
 
 ## Отзыв о курсе:
