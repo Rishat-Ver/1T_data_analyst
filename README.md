@@ -27,6 +27,7 @@
 - [4.1 Grafana](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/4.1%20Grafana.md)
 - [4. Grafana](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/4.%20Итоговый%20проект.ipynb)
 - [5.1 Введение в продуктовую аналитику](https://github.com/Rishat-Ver/1T_data_analyst/blob/main/homework/5.1%20Введение%20в%20продуктовую%20аналитику.ipynb)
+- [Итоговый проект курса,  1Т "Аналитик данных"]()
 
 
 ## Отзыв о курсе:

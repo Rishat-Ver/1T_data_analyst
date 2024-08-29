@@ -163,3 +163,5 @@ cython_debug/
 
 .git/
 
+ecommerce_data.db
+datasets/ecommerce_data.db
